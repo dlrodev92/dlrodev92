@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 ![alt text](http://url/to/img.png)
-<h3 align="center">a bootcamp and self-taught full-stack web developer, I come from a hospitality and marketing background so I keen on user experience first. Since I found what the code can do I fall in love and now I'm about to create a good chunk of personal projects and find open source where I can help.</h3>
+<h3 align="center">I'm a bootcamp and self-taught full-stack web developer, I come from a hospitality and marketing background so I keen on user experience first. Since I found what the code can do I fall in love and now I'm about to create a good chunk of personal projects and find open source where I can help.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlrodev92&label=Profile%20views&color=0e75b6&style=flat" alt="dlrodev92" /> </p>
 
