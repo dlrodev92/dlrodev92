@@ -1,4 +1,4 @@
-![Alt Text](ttps://i.ibb.co/YdDMPgV/modern-green-coming-soon-Banner-Landscape.png)
+
 <img src="https://i.ibb.co/YdDMPgV/modern-green-coming-soon-Banner-Landscape.png" alt="modern-green-coming-soon-Banner-Landscape" border="0">
 
 <h3 align="center">I'm a bootcamp and self-taught full-stack web developer, I come from a hospitality and marketing background so I keen on user experience first. Since I found what the code can do I fall in love and now I'm about to create a good chunk of personal projects and find open source where I can help.</h3>
@@ -22,7 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@londonmalafolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@londonmalafolla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dave rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dave rodriguez" height="30" width="40" /></a>
 </p>
 
