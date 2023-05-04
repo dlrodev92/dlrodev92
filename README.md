@@ -1,3 +1,4 @@
+![Alt Text](ttps://i.ibb.co/YdDMPgV/modern-green-coming-soon-Banner-Landscape.png)
 
 <h3 align="center">I'm a bootcamp and self-taught full-stack web developer, I come from a hospitality and marketing background so I keen on user experience first. Since I found what the code can do I fall in love and now I'm about to create a good chunk of personal projects and find open source where I can help.</h3>
 
