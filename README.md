@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-![alt text](http://url/to/img.png)
+
 <h3 align="center">I'm a bootcamp and self-taught full-stack web developer, I come from a hospitality and marketing background so I keen on user experience first. Since I found what the code can do I fall in love and now I'm about to create a good chunk of personal projects and find open source where I can help.</h3>
+
+<img src="https://i.ibb.co/YdDMPgV/modern-green-coming-soon-Banner-Landscape.png" alt="modern-green-coming-soon-Banner-Landscape" border="0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlrodev92&label=Profile%20views&color=0e75b6&style=flat" alt="dlrodev92" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlrodev92" alt="dlrodev92" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@londonmalafolla" target="blank"><img src="https://img.shields.io/twitter/follow/@londonmalafolla?logo=twitter&style=for-the-badge" alt="@londonmalafolla" /></a> </p>
 
 - 🔭 I’m currently working on [School of code (Student)](https://www.schoolofcode.co.uk/)
 
