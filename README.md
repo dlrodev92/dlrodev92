@@ -37,76 +37,70 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
   <tbody>
     <tr>
       <td>
-          <h3>Migthy Mini Minds</h3>
+        <h3>Mighty Mini Minds</h3>
       </td>
       <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
       </td>
       <td>
-      <h4>REPO/VIEW</h4>
+        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
       </td>
     </tr>
-    
     <tr>
       <td>
-          <h3>Fun With Flags</h3>
+        <h3>Fun With Flags</h3>
       </td>
       <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
       </td>
       <td>
-      <h4>REPO/VIEW</h4>
+        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
       </td>
     </tr>
-    
     <tr>
       <td>
-          <h3>Unit-Test-WeatherApp</h3>
+        <h3>Unit-Test-WeatherApp</h3>
       </td>
       <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
       </td>
       <td>
-      <h4>REPO/VIEW</h4>
+        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
       </td>
     </tr>
-    
     <tr>
       <td>
-          <h3>WeatherApp TypeScript</h3>
+        <h3>WeatherApp TypeScript</h3>
       </td>
       <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
       </td>
       <td>
-      <h4>REPO/VIEW</h4>
+        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
       </td>
     </tr>
-    
     <tr>
       <td>
-          <h3>Rock-Scissors-Papper</h3>
+        <h3>Rock-Scissors-Paper</h3>
       </td>
       <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
       </td>
       <td>
-      <h4>REPO/VIEW</h4>
+        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
       </td>
     </tr>
-    
     <tr>
       <td>
-          <h3>Vainilla JavaScript Calculator</h3>
+        <h3>Vanilla JavaScript Calculator</h3>
       </td>
       <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
       </td>
       <td>
-      <h4>REPO/VIEW</h4>
+        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
       </td>
     </tr>
-    
   </tbody>
 </table>
 
