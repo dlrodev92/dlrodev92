@@ -65,60 +65,6 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
       </td>
     </tr>
-    <tr>
-      <td>
-        <h3>Unit-Test-WeatherApp</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" alt="Jest" width="40" height="40" />.
-
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>WeatherApp TypeScript</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" alt="Jest" width="40" height="40" />.
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Rock-Scissors-Paper</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />.
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Vanilla JavaScript Calculator</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
   </tbody>
 </table>
 
