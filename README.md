@@ -1,7 +1,8 @@
 
 <img src="https://i.ibb.co/YdDMPgV/modern-green-coming-soon-Banner-Landscape.png" alt="modern-green-coming-soon-Banner-Landscape" border="0">
 
-<h3 align="center">I'm a bootcamp and self-taught full-stack web developer, I come from a hospitality and marketing background so I keen on user experience first. Since I found what the code can do I fall in love and now I'm about to create a good chunk of personal projects and find open source where I can help.</h3>
+<h3 align="center">I'm A professional with a diverse background. I've worked as a chef for six 4 and then transitioned to being a head waiter and bartender for five years in high-end restaurants doing a little bit of marketing on the side. My aim now is to become a full-stack web developer and create applications that enhance people's lives.
+Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and going to the gym are my passions. I also have a keen interest in history 🏯 , sociology, and geography 🌎. Whether it's studying maps, reading historical books, or immersing myself in documentaries, I can easily spend hours exploring these subjects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlrodev92&label=Profile%20views&color=0e75b6&style=flat" alt="dlrodev92" /> </p>
 
