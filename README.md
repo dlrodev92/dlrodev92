@@ -74,7 +74,6 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
         <img src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" alt="Jest" width="40" height="40" />.
-
       </td>
       <td>
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
