@@ -7,9 +7,9 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlrodev92&label=Profile%20views&color=0e75b6&style=flat" alt="dlrodev92" /> </p>
 
 
-- 🔭 I’m currently working on [School of code (Student)](https://www.schoolofcode.co.uk/)
+- 🔭 I’m currently working on [Looking for Work].
 
-- 🌱 I’m currently learning **PostgreSQL, TypeScript.**
+- 🌱 I’m currently learning **PHP, TypeScript.**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project/People Who Need My Help.**
 
@@ -18,8 +18,6 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
 - 💬 Ask me about **React, CSS3**
 
 - 📫 How to reach me **dlrdev92@gmail.com**
-
-- ⚡ Fun fact **Why don't programmers like nature? It has too many bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
