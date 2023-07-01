@@ -37,45 +37,15 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
   <tbody>
     <tr>
       <td>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-          Migthy Mini Minds
-        </a>
+          <h4>Migthy Mini Minds</h4>
       </td>
       <td>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
       </td>
       <td>
       REPO/VIEW
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        </a>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <!-- Repeat the above row structure to add more rows if needed -->
   </tbody>
 </table>
 
