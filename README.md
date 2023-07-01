@@ -29,27 +29,24 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
 <table>
   <thead>
     <tr>
-      <th>PROJECTS</th>
-      <th>Tools</th>
-      <th></th>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>Repo/Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+          Migthy Mini Minds
         </a>
       </td>
       <td>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        </a>
+
       </td>
       <td>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        </a>
+      REPO/VIEW
       </td>
     </tr>
     <tr>
