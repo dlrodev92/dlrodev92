@@ -37,15 +37,112 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
   <tbody>
     <tr>
       <td>
-          <h4>Migthy Mini Minds</h4>
+          <h3>Migthy Mini Minds</h3>
       </td>
       <td>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </td>
       <td>
-      REPO/VIEW
+      <h4>REPO/VIEW</h4>
       </td>
     </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
+    <tr>
+      <td>
+          <h3>Migthy Mini Minds</h3>
+      </td>
+      <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </td>
+      <td>
+      <h4>REPO/VIEW</h4>
+      </td>
+    </tr>
+    -------------------------------------------------------
   </tbody>
 </table>
 
