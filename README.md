@@ -40,13 +40,13 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <h3>Mighty Mini Minds</h3>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="20" height="20" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="20" height="20" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" width="20" height="20" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20" height="20" />.
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />.
       </td>
       <td>
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
@@ -57,7 +57,9 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <h3>Fun With Flags</h3>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />.
       </td>
       <td>
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
@@ -68,7 +70,11 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <h3>Unit-Test-WeatherApp</h3>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" alt="Jest" width="40" height="40" />.
+
       </td>
       <td>
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
@@ -79,7 +85,10 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <h3>WeatherApp TypeScript</h3>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" alt="Jest" width="40" height="40" />.
       </td>
       <td>
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
@@ -90,7 +99,9 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <h3>Rock-Scissors-Paper</h3>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />.
       </td>
       <td>
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
@@ -101,7 +112,8 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <h3>Vanilla JavaScript Calculator</h3>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
       </td>
       <td>
         <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
