@@ -1,6 +1,6 @@
 
 <img src="https://i.ibb.co/GMhQhGF/modern-green-coming-soon-Banner-Landscape-1.png" alt="modern-green-coming-soon-Banner-Landscape-1" width="800" border="0">
-<img src="https://i.ibb.co/RcNFBvf/modern-green-coming-soon-Banner-Landscape-2.png" alt="modern-green-coming-soon-Banner-Landscape-2" width="1600" border="0">
+<a href="https://ibb.co/g32vhQb"><img src="https://i.ibb.co/g32vhQb/modern-green-coming-soon-Banner-Landscape-3000-1200px-1.png" alt="modern-green-coming-soon-Banner-Landscape-3000-1200px-1" border="0"></a>
 
 <h3 align="center">I'm A professional with a diverse background. I've worked as a chef for six 4 and then transitioned to being a head waiter and bartender for five years in high-end restaurants doing a little bit of marketing on the side. My aim now is to become a full-stack web developer and create applications that enhance people's lives.
 Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and going to the gym are my passions. I also have a keen interest in history 🏯 , sociology, and geography 🌎. Whether it's studying maps, reading historical books, or immersing myself in documentaries, I can easily spend hours exploring these subjects.</h3>
