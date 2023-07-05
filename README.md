@@ -49,8 +49,8 @@ Beyond work, I'm an avid sports enthusiast—basketball 🏀, football ⚽ and g
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />.
       </td>
       <td>
-        <a href="[[REPO/VIEW_LINK]](https://wonderful-paletas-0c1299.netlify.app/)" target="_blank"><h4>VIEW</h4></a>
-        <a href="[[REPO/VIEW_LINK]](https://wonderful-paletas-0c1299.netlify.app/)" target="_blank"><h4>REPO</h4></a>
+        <a href="(https://wonderful-paletas-0c1299.netlify.app/)" target="_blank"><h4>VIEW</h4></a>
+        <a href="(https://github.com/dlrodev92/migthy_mini_minds)" target="_blank"><h4>REPO</h4></a>
       </td>
     </tr>
     <tr>
