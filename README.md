@@ -6,7 +6,7 @@ Hey there!👋
 if you're here you probably wonder, Who's David Lopez?
 </h3>
 <p>
-*Well, in a nutshell , I'm a driven and adaptable individual who loves taking on new challenges. I believe in simplicity when faced with obstacles—I assess the situation, seek assistance when needed, and equip myself with the knowledge to tackle any challenge head-on.*
+Well, in a nutshell , I'm a driven and adaptable individual who loves taking on new challenges. I believe in simplicity when faced with obstacles—I assess the situation, seek assistance when needed, and equip myself with the knowledge to tackle any challenge head-on.
 
 **That's the short answer but** if you have one minute and a half, yes one and a half you'll know me way much better.⬇️
 
