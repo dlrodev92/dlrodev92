@@ -38,7 +38,7 @@ Whether I'm poring over maps, diving into historical books, or immersing myself 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlrodev92&label=Profile%20views&color=0e75b6&style=flat" alt="dlrodev92" /> </p>
 
 
-- 🔭 I’m currently working on [Looking for Work].
+- 🔭 I’m currently Looking for Work.
 
 - 🌱 I’m currently learning **PHP, TypeScript.**
 
@@ -46,7 +46,7 @@ Whether I'm poring over maps, diving into historical books, or immersing myself 
 
 - 📝 I regularly write posts on [https://www.linkedin.com/in/dave-rodriguez-b27691216/](https://www.linkedin.com/in/dave-rodriguez-b27691216/)
 
-- 💬 Ask me about **React, CSS3**
+- 💬 Ask me about **React, Tailwind**
 
 - 📫 How to reach me **dlrdev92@gmail.com**
 
