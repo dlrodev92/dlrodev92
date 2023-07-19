@@ -50,109 +50,16 @@ Whether I'm poring over maps, diving into historical books, or immersing myself 
 
 - 📫 How to reach me **dlrdev92@gmail.com**
 
+ <div align="center">
+  <h3>Check Out My Portfolio</h3>
+  <p><em>And look at my projects ⬇️</em></p>
+  <a href="https://github.com/dlrodev92/Portfolio"><strong>:link: My Portfolio</strong></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dave rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dave rodriguez" height="30" width="40" /></a>
 </p>
-
-<h2>MY PROJECTS</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Stack</th>
-      <th>Repo/Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <h3>Mighty Mini Minds</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />.
-      </td>
-      <td>
-        <a href="(https://wonderful-paletas-0c1299.netlify.app/)" target="_blank"><h4>VIEW</h4></a>
-        <a href="(https://github.com/dlrodev92/migthy_mini_minds)" target="_blank"><h4>REPO</h4></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Fun With Flags</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />.
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-     <tr>
-      <td>
-        <h3>Unit-Test-WeatherApp</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" alt="Jest" width="40" height="40" />.
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>WeatherApp TypeScript</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest.png" alt="Jest" width="40" height="40" />.
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Rock-Scissors-Paper</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />.
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Vanilla JavaScript Calculator</h3>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />,
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />,
-      </td>
-      <td>
-        <a href="[REPO/VIEW_LINK]" target="_blank"><h4>REPO/VIEW</h4></a>
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
