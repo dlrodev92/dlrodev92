@@ -1,34 +1,38 @@
-
-<img align="center" src="https://i.ibb.co/3cn3jgR/F2-F2-F2-10.png" alt="modern-green-coming-soon-Banner-Landscape-1" width="400" border="0">
-
+<div align="center">
+<img src="https://i.ibb.co/3cn3jgR/F2-F2-F2-10.png" alt="modern-green-coming-soon-Banner-Landscape-1" width="400" border="0">
+</div>
 <h3 align="center"> 
 Hey there!👋
 if you're here you probably wonder, Who's David Lopez?
 </h3>
 <p>
-Well, in a nutshell, I'm a driven and adaptable individual who loves taking on new challenges. I believe in simplicity when faced with obstacles—I assess the situation, seek assistance when needed, and equip myself with the knowledge to tackle any challenge head-on.
+*Well, in a nutshell , I'm a driven and adaptable individual who loves taking on new challenges. I believe in simplicity when faced with obstacles—I assess the situation, seek assistance when needed, and equip myself with the knowledge to tackle any challenge head-on.*
 
-That's the short answer but if you have one minute and a half, yes one and a half you'll know me way much better.⬇️
+**That's the short answer but** if you have one minute and a half, yes one and a half you'll know me way much better.⬇️
 
 Let me introduce myself. I'm David, a Spanish professional with a diverse background that spans across various industries.
 
-My journey started in the culinary world, where I spent six years honing my skills as a chef.
+**My journey started in the culinary world**, where I spent six years honing my skills as a chef.
 
 But my passion didn't stop there—I ventured into the realm of hospitality and spent the next five years as head waiter and bartender in high-end restaurants.
 
-Along the way, I dabbled in marketing, exploring my creative side among other jobs.
+Along the way, **I dabbled in marketing**, exploring my creative side among other jobs.
 
-Now, I have my sights set on becoming a full-stack web developer. My ultimate goal is to create applications that truly make a difference in people's lives.
+**Now, I have my sights set on becoming a great full-stack web developer**. My ultimate goal is to create applications that truly make a difference in people's lives.
 
-What sets me apart? Well, besides being customer-oriented and having excellent communication skills, I thrive under pressure.
+**What sets me apart?** Well, besides being customer-oriented and having excellent communication skills, I thrive under pressure.
 
 I'm a self-motivated individual who embraces challenges with open arms.
 
-But it's not just about work for me. Outside of the professional realm, I'm an avid sports enthusiast, particularly passionate about basketball and football.
+But it's not just about work for me. 
 
-I also have a deep curiosity for subjects like history, sociology, and geography.
+**Outside of the professional realm**, I'm an avid sports enthusiast, particularly passionate about basketball and football.
+
+I also have a deep curiosity for subjects like **history, sociology, and geography**.
 
 Whether I'm poring over maps, diving into historical books, or immersing myself in documentaries, I can easily lose track of time exploring these fascinating topics.
+
+*Feel free to contact me anytime, I'm open to everybody* 😁.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlrodev92&label=Profile%20views&color=0e75b6&style=flat" alt="dlrodev92" /> </p>
