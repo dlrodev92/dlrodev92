@@ -40,7 +40,7 @@ Whether I'm poring over maps, diving into historical books, or immersing myself 
 
 - 🔭 I’m currently Looking for Work.
 
-- 🌱 I’m currently learning **PHP, TypeScript.**
+- 🌱 I’m currently learning ** TypeScript, Java.**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project/People Who Need My Help.**
 
