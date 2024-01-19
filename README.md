@@ -38,9 +38,9 @@ Whether I'm poring over maps, diving into historical books, or immersing myself 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlrodev92&label=Profile%20views&color=0e75b6&style=flat" alt="dlrodev92" /> </p>
 
 
-- 🔭 I’m currently Looking for Work.
+- 🔭 I’m currently Looking for Full Time Position.
 
-- 🌱 I’m currently learning **  Java.**
+- 🌱 I’m currently learning ** Web Architecture, deepening my knowledge of React and python**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project/People Who Need My Help.**
 
